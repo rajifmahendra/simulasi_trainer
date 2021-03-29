@@ -43,7 +43,7 @@
         </div>
       </nav>
 
-      <h1>Ini halaman Home</h1>
+      <h1>Ini halaman Product</h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
